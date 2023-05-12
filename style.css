@@ -76,7 +76,7 @@ img:hover{
     height: 100%;
     border-radius: 30px;
     object-fit: cover;
-    transition: 2s;
+    transition: 1s;
 }
 
 .slider span:hover img {
